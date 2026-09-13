@@ -1,0 +1,16 @@
+project/
+│
+├── gwas_analysis/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── data_loading.py
+│   ├── cleaning.py
+│   ├── comparison.py
+│   ├── plotting.py
+│   └── main.py
+│
+├── mali_top_1000_full_data.csv
+├── uganda_top_1000_full_data.csv
+└── column_similarity.xlsx
+
+python -m gwas_analysis.main
