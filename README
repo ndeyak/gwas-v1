@@ -1,3 +1,4 @@
+Structure of project:
 project/
 │
 ├── gwas_analysis/
@@ -13,4 +14,5 @@ project/
 ├── uganda_top_1000_full_data.csv
 └── column_similarity.xlsx
 
+How to run the project:
 python -m gwas_analysis.main
